@@ -3,5 +3,7 @@
 by Yuichi Hirayama
 
 セクション4:GAN
+<br>
 セクション5:DCGAN
+<br>
 セクション6:Conditional GAN
