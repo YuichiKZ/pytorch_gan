@@ -2,6 +2,8 @@
 
 by Yuichi Hirayama
 
+![Course Image 1](image/course_logo.png)
+
 セクション4:GAN
 <br>
 セクション5-1:DCGAN モノクロ手書き数字画像
