@@ -7,11 +7,8 @@ by Yuichi Hirayama
 
 ## githubに以下のセクションで用いるソースコードを格納しています。
 - セクション4:GAN
-<br>
 - セクション5-1:DCGAN モノクロ手書き数字画像
-<br>
 - セクション5-2:DCGAN カラー花画像
-<br>
 - セクション6:Conditional GAN
 
 ## 使い方
